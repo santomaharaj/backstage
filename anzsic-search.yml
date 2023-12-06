@@ -4,7 +4,7 @@ metadata:
   name: ANZSIC
   description: The ANZSIC Search API
   annotations:
-    backstage.io/spectral-ruleset-url: https://github.com/teamdigitale/api-openapi-samples/blob/master/.spectral.yml
+    backstage.io/spectral-ruleset-url: https://github.com/santomaharaj/backstage/blob/main/teamdigitale-spectral.yml
 spec:
   type: openapi
   lifecycle: production
