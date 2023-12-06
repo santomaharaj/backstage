@@ -4,7 +4,7 @@ metadata:
   name: BabyNames
   description: The BabyNames API
   annotations:
-    backstage.io/spectral-ruleset-url: https://github.com/Azure/azure-api-style-guide/blob/main/spectral.yaml
+    backstage.io/spectral-ruleset-url: https://raw.githubusercontent.com/Azure/azure-api-style-guide/main/spectral.yaml
 spec:
   type: openapi
   lifecycle: production
