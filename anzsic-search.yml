@@ -4,7 +4,7 @@ metadata:
   name: petstore
   description: The Petstore API
   annotations:
-    backstage.io/spectral-ruleset-url: https://raw.githubusercontent.com/baloise-incubator/spectral-ruleset/main/zalando.yml
+    backstage.io/spectral-ruleset-url: https://github.com/teamdigitale/api-openapi-samples/blob/master/.spectral.yml
 spec:
   type: openapi
   lifecycle: production
