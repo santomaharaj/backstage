@@ -4,7 +4,7 @@ metadata:
   name: ANZSIC
   description: The ANZSIC Search API
   annotations:
-    backstage.io/spectral-ruleset-url: https://raw.githubusercontent.com/SPSCommerce/sps-api-standards/main/sps-api-standards.spectral.yml
+    backstage.io/spectral-ruleset-url: https://raw.githubusercontent.com/baloise-incubator/spectral-ruleset/main/zalando.yml
 spec:
   type: openapi
   lifecycle: production
