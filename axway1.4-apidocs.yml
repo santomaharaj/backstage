@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: ANZSIC
+  description: The ANZSIC Search API
+  annotations:
+    backstage.io/spectral-ruleset-url: https://raw.githubusercontent.com/baloise-incubator/spectral-ruleset/main/zalando.yml
+spec:
+  type: openapi
+  lifecycle: production
+  owner: petstore@example.com
+  definition: 
+    $text: https://swagger-ui.portals.eu.org/docs/axway.json
