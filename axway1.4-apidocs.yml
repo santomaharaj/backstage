@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: ANZSIC
-  description: The ANZSIC Search API
+  name: AXWAY-1.4
+  description: The Axway Admin API version 1.4
   annotations:
     backstage.io/spectral-ruleset-url: https://raw.githubusercontent.com/baloise-incubator/spectral-ruleset/main/zalando.yml
 spec:
